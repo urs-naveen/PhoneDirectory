@@ -25,5 +25,7 @@ curl -i http://localhost:9090/phone/status
 Below are the actuators calls for the application and should be executed while the application is running.
 
 info: curl -i http://localhost:19091/management/info
+
 health-check: curl -i http://localhost:19091/management/health
+
 env properties: curl -i http://localhost:19091/management/env
