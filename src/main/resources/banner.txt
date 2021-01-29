@@ -1,10 +1,10 @@
-${Ansi.GREEN} ########  ##     ##  #######  ##    ## ########    ########  #### ########  ########  ######  ########  #######  ########  ##    ##
-${Ansi.GREEN} ##     ## ##     ## ##     ## ###   ## ##          ##     ##  ##  ##     ## ##       ##    ##    ##    ##     ## ##     ##  ##  ##
-${Ansi.GREEN} ##     ## ##     ## ##     ## ####  ## ##          ##     ##  ##  ##     ## ##       ##          ##    ##     ## ##     ##   ####
-${Ansi.GREEN} ########  ######### ##     ## ## ## ## ######      ##     ##  ##  ########  ######   ##          ##    ##     ## ########     ##
-${Ansi.GREEN} ##        ##     ## ##     ## ##  #### ##          ##     ##  ##  ##   ##   ##       ##          ##    ##     ## ##   ##      ##
-${Ansi.GREEN} ##        ##     ## ##     ## ##   ### ##          ##     ##  ##  ##    ##  ##       ##    ##    ##    ##     ## ##    ##     ##
-${Ansi.GREEN} ##        ##     ##  #######  ##    ## ########    ########  #### ##     ## ########  ######     ##     #######  ##     ##    ##
+${Ansi.GREEN} PPPPPPPP  HH     HH  OOOOOOO  NN    NN EEEEEEEE    DDDDDDDD  IIII RRRRRRRR  EEEEEEEE  CCCCCC  TTTTTTTT  OOOOOOO  RRRRRRRR  YY    YY
+${Ansi.GREEN} PP     PP HH     HH OO     OO NNN   NN EE          DD     DD  II  RR     RR EE       CC    CC    TT    OO     OO RR     RR  YY  YY
+${Ansi.GREEN} PP     PP HH     HH OO     OO NNNN  NN EE          DD     DD  II  RR     RR EE       CC          TT    OO     OO RR     RR   YYYY
+${Ansi.GREEN} PPPPPPPP  HHHHHHHHH OO     OO NN NN NN EEEEEE      DD     DD  II  RRRRRRRR  EEEEEE   CC          TT    OO     OO RRRRRRRR     YY
+${Ansi.GREEN} PP        HH     HH OO     OO NN  NNNN EE          DD     DD  II  RR   RR   EE       CC          TT    OO     OO RR   RR      YY
+${Ansi.GREEN} PP        HH     HH OO     OO NN   NNN EE          DD     DD  II  RR    RR  EE       CC    CC    TT    OO     OO RR    RR     YY
+${Ansi.GREEN} PP        HH     HH  OOOOOOO  NN    NN EEEEEEEE    DDDDDDDD  IIII RR     RR EEEEEEEE  CCCCCC     TT     OOOOOOO  RR     RR    YY
 
 ${AnsiColor.BRIGHT_RED}
 --------------------------------------------------------------------
